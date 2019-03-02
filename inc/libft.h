@@ -6,7 +6,7 @@
 /*   By: tdelabro <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/02/25 20:09:39 by tdelabro          #+#    #+#             */
-/*   Updated: 2019/02/25 20:10:22 by tdelabro         ###   ########.fr       */
+/*   Updated: 2019/03/02 19:25:11 by tdelabro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@
 # include <stdint.h>
 # include <limits.h>
 
-# define BUFF_SIZE 128
+# define BUFF_SIZE 1
 
 typedef enum
 {
